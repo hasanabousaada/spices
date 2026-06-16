@@ -32,12 +32,12 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
                 rounded-lg\r
                 hover:bg-[#9C4A2B]\r
                 transition\r
-                `,children:`تسوق الآن`})})]}),(0,j.jsx)(`div`,{children:(0,j.jsx)(`img`,{src:`https://images.unsplash.com/photo-1596040033229-a9821ebd058d`,alt:`بهارات`,className:`\r
+                `,children:`تسوق الآن`})})]}),(0,j.jsx)(`div`,{children:(0,j.jsx)(`img`,{src:`./src/assets/images/home.png`,alt:`بهارات`,className:`\r
               w-full\r
               rounded-2xl\r
               shadow-xl\r
               object-cover\r
-              `})})]})})}),e[2]=r):r=e[2];let i;e[3]===Symbol.for(`react.memo_cache_sentinel`)?(i=(0,j.jsxs)(`div`,{className:`text-center mb-12`,children:[(0,j.jsx)(`h2`,{className:`text-3xl font-bold text-[#3D251E]`,children:`تسوق حسب الفئة`}),(0,j.jsx)(`p`,{className:`text-gray-500 mt-3`,children:`اختر من مجموعتنا المتنوعة من البهارات والخلطات والأعشاب`})]}),e[3]=i):i=e[3];let a;e[4]===Symbol.for(`react.memo_cache_sentinel`)?(a=(0,j.jsx)(`img`,{src:`https://images.unsplash.com/photo-1532336414038-cf19250c5757`,alt:`بهارات مفردة`,className:`h-64 w-full object-cover`}),e[4]=a):a=e[4];let o;e[5]===Symbol.for(`react.memo_cache_sentinel`)?(o=(0,j.jsxs)(`div`,{className:`\r
+              `})})]})})}),e[2]=r):r=e[2];let i;e[3]===Symbol.for(`react.memo_cache_sentinel`)?(i=(0,j.jsxs)(`div`,{className:`text-center mb-12`,children:[(0,j.jsx)(`h2`,{className:`text-3xl font-bold text-[#3D251E]`,children:`تسوق حسب الفئة`}),(0,j.jsx)(`p`,{className:`text-gray-500 mt-3`,children:`اختر من مجموعتنا المتنوعة من البهارات والخلطات والأعشاب`})]}),e[3]=i):i=e[3];let a;e[4]===Symbol.for(`react.memo_cache_sentinel`)?(a=(0,j.jsx)(`img`,{src:`./src/assets/images/1.png`,alt:`بهارات مفردة`,className:`h-64 w-full object-cover`}),e[4]=a):a=e[4];let o;e[5]===Symbol.for(`react.memo_cache_sentinel`)?(o=(0,j.jsxs)(`div`,{className:`\r
         bg-white\r
         rounded-2xl\r
         overflow-hidden\r
@@ -47,7 +47,7 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
         transition\r
         duration-300\r
         cursor-pointer\r
-        `,children:[a,(0,j.jsxs)(`div`,{className:`p-6`,children:[(0,j.jsx)(`h3`,{className:`text-xl font-semibold text-[#3D251E]`,children:`بهارات مفردة`}),(0,j.jsx)(`p`,{className:`text-gray-600 mt-2`,children:`فلفل أسود، كمون، كركم، بابريكا وأكثر.`})]})]}),e[5]=o):o=e[5];let s;e[6]===Symbol.for(`react.memo_cache_sentinel`)?(s=(0,j.jsx)(`img`,{src:`https://images.unsplash.com/photo-1509440159596-0249088772ff`,alt:`خلطات`,className:`h-64 w-full object-cover`}),e[6]=s):s=e[6];let c;e[7]===Symbol.for(`react.memo_cache_sentinel`)?(c=(0,j.jsxs)(`div`,{className:`\r
+        `,children:[a,(0,j.jsxs)(`div`,{className:`p-6`,children:[(0,j.jsx)(`h3`,{className:`text-xl font-semibold text-[#3D251E]`,children:`بهارات مفردة`}),(0,j.jsx)(`p`,{className:`text-gray-600 mt-2`,children:`فلفل أسود، كمون، كركم، بابريكا وأكثر.`})]})]}),e[5]=o):o=e[5];let s;e[6]===Symbol.for(`react.memo_cache_sentinel`)?(s=(0,j.jsx)(`img`,{src:`./src/assets/images/2.png`,alt:`خلطات`,className:`h-64 w-full object-cover`}),e[6]=s):s=e[6];let c;e[7]===Symbol.for(`react.memo_cache_sentinel`)?(c=(0,j.jsxs)(`div`,{className:`\r
         bg-white\r
         rounded-2xl\r
         overflow-hidden\r
@@ -57,7 +57,7 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
         transition\r
         duration-300\r
         cursor-pointer\r
-        `,children:[s,(0,j.jsxs)(`div`,{className:`p-6`,children:[(0,j.jsx)(`h3`,{className:`text-xl font-semibold text-[#3D251E]`,children:`خلطات مميزة`}),(0,j.jsx)(`p`,{className:`text-gray-600 mt-2`,children:`خلطات جاهزة للأرز والمشاوي والأطباق الشرقية.`})]})]}),e[7]=c):c=e[7];let l;e[8]===Symbol.for(`react.memo_cache_sentinel`)?(l=(0,j.jsx)(`img`,{src:`https://images.unsplash.com/photo-1514996937319-344454492b37`,alt:`أعشاب`,className:`h-64 w-full object-cover`}),e[8]=l):l=e[8];let u;e[9]===Symbol.for(`react.memo_cache_sentinel`)?(u=(0,j.jsx)(`section`,{className:`py-20 bg-white`,children:(0,j.jsxs)(`div`,{className:`max-w-7xl mx-auto px-4`,children:[i,(0,j.jsxs)(`div`,{className:`grid md:grid-cols-2 lg:grid-cols-3 gap-8`,children:[o,c,(0,j.jsxs)(`div`,{className:`\r
+        `,children:[s,(0,j.jsxs)(`div`,{className:`p-6`,children:[(0,j.jsx)(`h3`,{className:`text-xl font-semibold text-[#3D251E]`,children:`خلطات مميزة`}),(0,j.jsx)(`p`,{className:`text-gray-600 mt-2`,children:`خلطات جاهزة للأرز والمشاوي والأطباق الشرقية.`})]})]}),e[7]=c):c=e[7];let l;e[8]===Symbol.for(`react.memo_cache_sentinel`)?(l=(0,j.jsx)(`img`,{src:`./src/assets/images/3.jpeg`,alt:`أعشاب`,className:`h-64 w-full object-cover`}),e[8]=l):l=e[8];let u;e[9]===Symbol.for(`react.memo_cache_sentinel`)?(u=(0,j.jsx)(`section`,{className:`py-20 bg-white`,children:(0,j.jsxs)(`div`,{className:`max-w-7xl mx-auto px-4`,children:[i,(0,j.jsxs)(`div`,{className:`grid md:grid-cols-2 lg:grid-cols-3 gap-8`,children:[o,c,(0,j.jsxs)(`div`,{className:`\r
         bg-white\r
         rounded-2xl\r
         overflow-hidden\r
