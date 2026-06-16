@@ -69,7 +69,7 @@ const Home = () => {
           <div>
 
             <img
-              src="https://images.unsplash.com/photo-1596040033229-a9821ebd058d"
+              src="./src/assets/images/home.png"
               alt="بهارات"
               className="
               w-full
@@ -120,7 +120,7 @@ const Home = () => {
         "
       >
         <img
-          src="https://images.unsplash.com/photo-1532336414038-cf19250c5757"
+          src="./src/assets/images/1.png"
           alt="بهارات مفردة"
           className="h-64 w-full object-cover"
         />
@@ -153,7 +153,7 @@ const Home = () => {
         "
       >
         <img
-          src="https://images.unsplash.com/photo-1509440159596-0249088772ff"
+          src="./src/assets/images/2.png"
           alt="خلطات"
           className="h-64 w-full object-cover"
         />
@@ -186,7 +186,7 @@ const Home = () => {
         "
       >
         <img
-          src="https://images.unsplash.com/photo-1514996937319-344454492b37"
+          src="./src/assets/images/3.jpeg"
           alt="أعشاب"
           className="h-64 w-full object-cover"
         />

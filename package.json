@@ -1,11 +1,11 @@
 {
   "name": "spices",
-"homepage": "https://hasanabousaada.github.io/Spices",  "private": true,
+"homepage": "https://hasanabousaada.github.io/spices",  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
